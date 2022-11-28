@@ -58,6 +58,7 @@ ul{
 
 .nav-main ul li{
     padding: 10px;
+    padding-top: 30px;
 }
 
 .nav-main ul li a{
@@ -90,10 +91,9 @@ body {
     font-family: monospace;
 }
 
-.container {
+.container table {
     width: 100%;
     max-width: 1000px;
-
     margin: auto;
 }
 
