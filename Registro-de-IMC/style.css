@@ -100,7 +100,7 @@ ul{
     
 }
 
-#Semanas {
+.semanas {
     display: flex;
     justify-content: center;
     align-items: center;
@@ -114,6 +114,7 @@ ul{
     text-transform: uppercase;
     font-weight: bold;
     margin: 8px 0px;
+    padding-top: 30px;
 }
 
 .table tr {
