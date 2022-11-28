@@ -88,11 +88,8 @@ ul{
     
 }
 
-body {
-    font-family: monospace;
-}
 
-.container table {
+.container-table {
     width: 100%;
     max-width: 1000px;
     margin: auto;
