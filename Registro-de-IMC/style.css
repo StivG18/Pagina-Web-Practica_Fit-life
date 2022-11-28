@@ -59,6 +59,7 @@ ul{
 .nav-main ul li{
     padding: 10px;
     padding-top: 30px;
+    min-width: 180px;
 }
 
 .nav-main ul li a{
