@@ -1,1 +1,3 @@
 
+Primera tabla de borrador para clacular IMC 
+pd no me gustan los colores de mi tabla aiuda XD
